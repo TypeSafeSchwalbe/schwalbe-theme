@@ -1,0 +1,23 @@
+{
+    "name": "schwalbe-theme",
+    "displayName": "Schwalbe Theme",
+    "description": "TypeSafeSchwalbe's personal color theme.",
+    "version": "1.0.0",
+    "publisher": "TypeSafeSchwalbe",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Schwalbe Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/schwalbe-theme.json"
+            }
+        ]
+    }
+}
+  
