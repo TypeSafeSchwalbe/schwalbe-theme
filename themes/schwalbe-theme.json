@@ -42,6 +42,7 @@
                 "storage.modifier",
                 "keyword.other",
                 "storage.type.primitive",
+                "storage.type.built-in",
                 "storage.type.function"
             ],
             "settings": {
